@@ -16,5 +16,10 @@ module.exports = (sequelize) => {
 			allowNull: false,
 
 		}
+		,
+		discord_thread_id: {
+			type: DataTypes.STRING,
+			allowNull: true
+		}
 	});
 };

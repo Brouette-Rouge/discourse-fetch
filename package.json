@@ -1,12 +1,12 @@
 {
-  "name": "forum",
+  "name": "nsec-forum-bridge",
   "version": "1.0.0",
-  "description": "A discord bot for fetching Zcash forum threads",
+  "description": "A Discord bot for importing Discourse forum threads into Discord forums",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "James Katz",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.2",
